@@ -1,0 +1,23 @@
+
+.about-content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .about-content h5 {
+      font-weight: bold;
+      margin-bottom: 10px;
+  }
+  
+  .about-content p {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+
+  @media (max-width: 768px) {
+      .home-subA h1{
+          font-size: 2rem;
+      }
+  }
+  
